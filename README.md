@@ -1,0 +1,1 @@
+This repository demonstrates a common PHP parse error caused by accidentally omitting parentheses when calling a function. The `bug.php` file contains the erroneous code, while `bugSolution.php` provides the corrected version.
